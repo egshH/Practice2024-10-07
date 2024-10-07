@@ -1,0 +1,14 @@
+C:\Users\yegor\source\repos\Practice\Practice1task\bin\Debug\net8.0\Practice1task.exe
+C:\Users\yegor\source\repos\Practice\Practice1task\bin\Debug\net8.0\Practice1task.deps.json
+C:\Users\yegor\source\repos\Practice\Practice1task\bin\Debug\net8.0\Practice1task.runtimeconfig.json
+C:\Users\yegor\source\repos\Practice\Practice1task\bin\Debug\net8.0\Practice1task.dll
+C:\Users\yegor\source\repos\Practice\Practice1task\bin\Debug\net8.0\Practice1task.pdb
+C:\Users\yegor\source\repos\Practice\Practice1task\obj\Debug\net8.0\Practice1task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yegor\source\repos\Practice\Practice1task\obj\Debug\net8.0\Practice1task.AssemblyInfoInputs.cache
+C:\Users\yegor\source\repos\Practice\Practice1task\obj\Debug\net8.0\Practice1task.AssemblyInfo.cs
+C:\Users\yegor\source\repos\Practice\Practice1task\obj\Debug\net8.0\Practice1task.csproj.CoreCompileInputs.cache
+C:\Users\yegor\source\repos\Practice\Practice1task\obj\Debug\net8.0\Practice1task.dll
+C:\Users\yegor\source\repos\Practice\Practice1task\obj\Debug\net8.0\refint\Practice1task.dll
+C:\Users\yegor\source\repos\Practice\Practice1task\obj\Debug\net8.0\Practice1task.pdb
+C:\Users\yegor\source\repos\Practice\Practice1task\obj\Debug\net8.0\Practice1task.genruntimeconfig.cache
+C:\Users\yegor\source\repos\Practice\Practice1task\obj\Debug\net8.0\ref\Practice1task.dll
